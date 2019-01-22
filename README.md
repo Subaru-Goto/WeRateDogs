@@ -1,5 +1,6 @@
 # WeRateDogs
-Gather & clean data from different sources through requests module and twitter API for analysis
+Gather data from different sources through requests module and twitter API for analysis
+Clean the data programmatically
 
 Programming language: Python
 
